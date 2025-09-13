@@ -1,4 +1,4 @@
-# 🌦️ Weather Data Analyzer
+#Data Analyzer
 
 This project analyzes a weather dataset using **Pandas** and **NumPy**.  
 It calculates basic statistics (minimum, maximum, average, and median) for all numeric columns.
